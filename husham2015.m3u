@@ -1,5 +1,329 @@
 #EXTM3U
 
+
+
+#EXTINF:-1,Telenovelas
+http://wcm777.la/tp/tlnovelas.m3u8
+#EXTINF:-1,Glitz
+http://wcm777.la/tp/glitz.m3u8
+#EXTINF:-1,SyFy
+http://wcm777.la/tp/syfy.m3u8
+#EXTINF:-1,TLC
+http://wcm777.la/tp/tlc.m3u8
+#EXTINF:-1,E!
+http://wcm777.la/tp/e.m3u8
+#EXTINF:-1,MTV
+http://wcm777.la/tp/mtv.m3u8
+#EXTINF:-1,MTV Hits
+http://wcm777.la/tp/mtv-hits.m3u8
+#EXTINF:-1,Disney Channel
+http://wcm777.la/tp/disney-channel.m3u8
+#EXTINF:-1,Cartoon Network
+http://wcm777.la/tp/cartoon-network.m3u8
+#EXTINF:-1,Disney XD
+http://wcm777.la/tp/disney-xd.m3u8
+#EXTINF:-1,Nickelodeon
+http://wcm777.la/tp/nick.m3u8
+#EXTINF:-1,Nick HD
+http://wcm777.la/tp/nick-hd.m3u8
+#EXTINF:-1,Nicktoons
+http://wcm777.la/tp/nicktoons.m3u8
+#EXTINF:-1,Boomerang
+http://wcm777.la/tp/boomerang.m3u8
+#EXTINF:-1,Tooncast
+http://wcm777.la/tp/tooncast.m3u8
+#EXTINF:-1,Discovery Kids
+http://wcm777.la/tp/discovery-kids.m3u8
+#EXTINF:-1,Disney Jr
+http://wcm777.la/tp/disney-jr.m3u8
+#EXTINF:-1,Nick Jr
+http://wcm777.la/tp/nick-jr.m3u8
+#EXTINF:-1,BabyTV
+http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317&f=mariocs.m3u8
+#EXTINF:-1,Discovery Channel
+http://wcm777.la/tp/discovery.m3u8
+#EXTINF:-1,Investigacion Discovery
+http://wcm777.la/tp/i-d.m3u8
+#EXTINF:-1,National Geographic
+http://wcm777.la/tp/nat-geo.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://wcm777.la/tp/nat-geo-wild.m3u8
+#EXTINF:-1,History HD
+http://wcm777.la/tp/history.m3u8
+#EXTINF:-1,Animal Planet
+http://wcm777.la/tp/animal-planet.m3u8
+#EXTINF:-1,Home and Health
+http://wcm777.la/tp/home-and-healt.m3u8
+#EXTINF:-1,Discovery Theather HD
+http://wcm777.la/tp/discovery-theater.m3u8
+#EXTINF:-1,Discovery Science
+http://wcm777.la/tp/discovery-science.m3u8
+#EXTINF:-1,Discovery Civilization
+http://wcm777.la/tp/discovery-civilization.m3u8
+#EXTINF:-1,Discovery Turbo
+http://wcm777.la/tp/discovery-turbo.m3u8
+#EXTINF:-1,Bein Ñ Sports
+http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
+#EXTINF:-1,ESPN HD
+http://wcm777.la/tp/espn-hd.m3u8
+#EXTINF:-1,ESPN 2
+http://wcm777.la/tp/espn-2.m3u8
+#EXTINF:-1,ESPN 3
+http://wcm777.la/tp/espn-3.m3u8
+#EXTINF:-1,Fox Sports
+http://wcm777.la/tp/fox-sports.m3u8
+#EXTINF:-1,Fox Sports 2
+http://wcm777.la/tp/fox-sports-2.m3u8
+#EXTINF:-1,Fox
+http://wcm777.la/tp/fox-hd.m3u8
+#EXTINF:-1,Cinecanal HD
+http://wcm777.la/tp/cinecanal-hd.m3u8
+#EXTINF:-1,AXN
+http://wcm777.la/tp/axn.m3u8
+#EXTINF:-1,HBO
+http://wcm777.la/mariocs.php?canal=HBO2SD&cm=365&f=mariocs.m3u8
+#EXTINF:-1,HBO Plus
+http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369&f=mariocs.m3u8
+#EXTINF:-1,TNT
+http://wcm777.la/tp/tnt.m3u8
+#EXTINF:-1,FX HD
+http://wcm777.la/tp/fx-hd.m3u8
+#EXTINF:-1,Sony
+http://wcm777.la/tp/sony.m3u8
+#EXTINF:-1,Space HD
+http://wcm777.la/tp/space.m3u8
+#EXTINF:-1,Warner Channel
+http://wcm777.la/tp/warner.m3u8
+#EXTINF:-1,AMC
+http://wcm777.la/tp/amc.m3u8
+#EXTINF:-1,Cinemax
+http://wcm777.la/tp/cinemax.m3u8
+#EXTINF:-1,Fox Action HD
+http://wcm777.la/tp/fox-action.m3u8
+#EXTINF:-1,Fox Cinèma
+http://wcm777.la/tp/fox-cinema.m3u8
+#EXTINF:-1,Fox Classics
+http://wcm777.la/tp/fox-classics.m3u8
+#EXTINF:-1,Fox Movies HD
+http://wcm777.la/tp/fox-movies.m3u8
+#EXTINF:-1,Golden HD
+http://wcm777.la/tp/golden.m3u8
+#EXTINF:-1,Golden Edge
+http://wcm777.la/tp/golden-edge.m3u8
+#EXTINF:0,Peliculas HD
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Cine Dinamita
+http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465&f=mariocs.m3u8
+#EXTINF:-1,CineLatino
+http://wcm777.la/mariocs.php?canal=CineLatinoSD&cm=477&f=mariocs.m3u8
+#EXTINF:-1,Film Zone
+http://wcm777.la/tp/film-zone.m3u8
+
+
+#EXTINF:-1 tvg-logo=\"Azteca Noticias.png\",Azteca Noticias
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:-1 tvg-id=\"Canal Azteca 13 (México)\" tvg-logo=\"el-trece.png\",Canal Azteca 13 (México)
+http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"canal-2-HD.png\",Canal De Las Estrellas
+http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
+#EXTINF:-1 tvg-id=\"Canal 5 de México (XHGC)\" tvg-logo=\"canal-5-HD.png\",Canal 5 de México (XHGC)
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"azteca-internacional.png\",Canal Azteca Honduras
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"azteca-7.png\",Azteca 7
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"Gala TV.png\",Gala TV Cancun
+http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"gala-tv-hd.png\",Gala TV
+http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"cadena-3.png\",Cadena 3
+http://iptvcanales.com/xw/cable.php?canal=05&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"proyecto-40.png\" tvg-id=\"I140.309213908.microsoft.com\",Proyecto 40
+http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"once-tv.png\",Once TV
+http://iptvcanales.com/xw/cable.php?canal=07&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"foro-tv-HD.png\" tvg-id=\"Canal Foro TV\",FORO Tv
+http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"canal-52mx.png\",Canal 52MX
+http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"multimedios-monterrey.png\",Multimedios Plus
+http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"c44.png\",Canal 44 Ciudad Juarez
+http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"teleformula.png\",Teleformula
+http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"azteca-novelas.png\",AZ Corazon
+http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tlnovelas.png\",Tlnovelas America
+http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"trutv.png\",Tru TV America Latina
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"a_e.png\",A&E Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"lifetime.png\",Lifetime Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"history-hd.png\",History en Español
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"natgeo.png\",National Geographic Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"home-and-health.png\",Discovery Home & Health Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"animalplanet.png\",Animal Planet Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"Investigacion-Discovery.png\",Investigation Discovery Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox.png\",Fox Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"syfy.png\",Syfy Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox-life.png\",FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"distrito-comedia.png\",Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"sony.png\",Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"warner-hd.png\",Warner Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"studio-universal.png\",Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"AXN.png\",AXN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"comedy-central-hd.png\",Comedy Central Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"bbc-entertainment.png\",BBC Entertainment Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"universal-channel.png\",Universal Channel America Latina
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"TNT_Serie.png\",TNT Series Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tbs.png\",TBS America Latina
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"i.sat.png\",I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"wobi-tv.png\",WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"e!-entertainment-television.png\",E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"space.png\",SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fx-hd.png\",FX Latino
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"cinema.png\",AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox1_oeste.png\",Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox-movies-HD.png\",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox_action_oeste.png\",Fox Action Oeste
+#EXTINF:-1 tvg-logo=\"fox-movies-HD.png\",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox-cinema.png\",Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox-family.png\",Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"cinecanal-(W).png\",CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tnt.png\",TNT America Latina
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"the-film-zone-hd.png\",Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"amc.png\",AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"cinemax.png\",Cinemax Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"paramount.png\",Paramount Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"golden.png\",Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"golden-edge.png\",Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"multicinema.png\",Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"de-pelicula.png\",De Película
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"dhe.png\",Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"nickelodeon.png\",Nickelodeon Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"cartoon-network.png\",Cartoon Network Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"disney-xd.png\",Disney XD Norte
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"discovery-kids.png\",Discovery Kids America Latina
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tooncast.png\",Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"ritmoson-latino.png\",Ritmoson Latino
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"telehit-hd.png\",Telehit
+http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"bandamax.png\",Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"vh1-classisc.png\",VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"mtv-live-hd.png\",MTV Live
+http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"vh1.png\",VH1 Latino Norte
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"mtv.png\",MTV Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tyc-sports.png\",TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"fox-sports-hd.png\",Fox Sports Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"espn.png\",ESPN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"espn-2.png\",ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"espn-3-hd.png\",ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports en Español
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"BeinSports.png\",BeinSports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"NFL Network.png\",NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"milenio-tv.png\",Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"RT International.png\",RT Español
+http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"excelsior-tv-redes.png\",Excelsior TV
+http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"unicable.png\",Unicable
+http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"Telemundo.png\",Telemundo
+http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"antena-latina.png\",Antena Latina
+http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tvn.png\",TVN HD
+http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"rtve.png\",La 2
+http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"Euronews.png\",Euronews
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"MEGA.png\",Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"Telefe.png\",Telefe
+http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"c42.png\",Canal 42
+http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"canal-6-repretel-online.png\",Canal 6
+http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"7.png\",Teletica 7
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"9.png\",Canal 9
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"colosal.png\",Colosal
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"tvuno.png\",TVUno
+http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"xpertv.png\",XperTV
+http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
+#EXTINF:-1 tvg-logo=\"pcha.png\",Positive Channel
+http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8 
+
+
+
 #EXTINF:-1 tvg-id="SkyMX_I702.235634313.microsoft.com" tvg-name="MTVHTLA702_MTVHTLA702mtv_hits_latin_americaCable" tvg-logo="mtv-hits.png",MTV Hits
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1495
 #EXTINF:-1 tvg-id="SkyMX_I703.217704455.microsoft.com" tvg-name="VH1CL703_VH1CL703vh1_classicCable" tvg-logo="vh1-classisc.png",VH1 Classic
@@ -1106,10 +1430,139 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 #EXTINF:-1,History SD
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1,[COLOR yellow]--- PELICULAS ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- ADULTOS ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,OFFLINE
+#EXTINF:-1,Brazzers TV Europe (Для взрослых)
+acestream://b8317a7a8a00e53e17bc749e3848078205adc4fd
+#EXTINF:-1,Candy (Для взрослых)
+acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff
+#EXTINF:-1,Candyman (Для взрослых)
+acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8
+#EXTINF:-1,CentoXCento TV (Для взрослых)
+acestream://651e8635a87c51cbf53cf6fe70513ef167a9d160
+#EXTINF:-1,Dorcel (Для взрослых)
+acestream://f124ec9cbcbc607e5b02d38433b65efdfb85b22b
+#EXTINF:-1,Exotica TV (Для взрослых)
+acestream://8ceda4892da58f6ebaaaaaafd9e2520936ebc9fc
+#EXTINF:-1,Hustler HD (Для взрослых)
+acestream://a7f54e6327ff658bc35aa5f890163ff0cb9920fa
+#EXTINF:-1,Hustler TV (Для взрослых)
+acestream://26f90180f4cc8c3244316deab0c549bf97dfb0f4
+#EXTINF:-1,Nuart TV (Для взрослых)
+acestream://6288e2ccb7f0709ec3ea03fac94d5f4dbf017a25
+#EXTINF:-1,O-la-la (Для взрослых)
+acestream://7d9b8bf4857a70bab6d39d09d22cc9e8c191b911
+#EXTINF:-1,Pink O TV (Для взрослых)
+acestream://5485f125aa877a80744cf1c388c075970ddac6e2
+#EXTINF:-1,Playboy TV (Для взрослых)
+acestream://8779feba51638703e99df0bf4abde2986f83be0f
+#EXTINF:-1,Redlight HD (Для взрослых)
+acestream://c8deef55905efd9d807b85d0486b85b822a80b34
+#EXTINF:-1,SCT (Для взрослых)
+acestream://dac4d4e07a2aeb96facb5c7a3298b541c6765b75
+#EXTINF:-1,Satisfaction HD (Для взрослых)
+acestream://9df8f427864839f6a57d84f17f23e7e60b1e1adf
+#EXTINF:-1,Sextosenso (Для взрослых)
+acestream://bda05f21d80d0da6db80d96e42c9915649f6ec9a
+#EXTINF:-1,TGirls TV (Для взрослых)
+acestream://c4ecb4e1834f148bd86d2c4ab13cfbe231ff2eca
+#EXTINF:-1,XXL (Для взрослых)
+acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027
+#EXTINF:-1,Искушение (Для взрослых)
+acestream://1d44e3d1df42891ce2198f124b5d882e27afbe24
+#EXTINF:-1,Ночной клуб (Для взрослых)
+acestream://a166a3611718a8c5582f0e2a3bacf3cafeee11ed
+#EXTINF:-1,Русская ночь (Для взрослых)
+acestream://fb8e064f4976b727dc892853494ee39cb2522ebf
+#EXTINF:-1,Эгоист ТВ (Для взрослых)
+acestream://2d22926b877f8af9bdf1ed85cfa6a7dc95adcb79
+#EXTINF:-1,18+: Tv Girl
+http://selling-team.net:8000/live/leonora/leonora/6286.m3u8
+#EXTINF:-1,18+: Sexto Senso
+http://selling-team.net:8000/live/leonora/leonora/6285.m3u8
+#EXTINF:-1,18+: Pink O TV
+http://selling-team.net:8000/live/leonora/leonora/6284.m3u8
+#EXTINF:-1,18+: Exotica TV
+http://selling-team.net:8000/live/leonora/leonora/6283.m3u8
+#EXTINF:-1,18+: Cento x Cento
+http://selling-team.net:8000/live/leonora/leonora/6282.m3u8
+#EXTINF:-1,18+: Boy Boy
+http://selling-team.net:8000/live/leonora/leonora/6281.m3u8
+#EXTINF:-1,18+:  Brazzer
+http://selling-team.net:8000/live/leonora/leonora/4125.m3u8
+#EXTINF:-1,18+: HOTCLUB 1 HD
+http://selling-team.net:8000/live/leonora/leonora/608.m3u8
+#EXTINF:-1,18+: HOTCLUB 2 HD
+http://selling-team.net:8000/live/leonora/leonora/609.m3u8
+#EXTINF:-1,18+: HOTCLUB 3 HD
+http://selling-team.net:8000/live/leonora/leonora/610.m3u8
+#EXTINF:-1,18+: HOTCLUB 4 HD
+http://selling-team.net:8000/live/leonora/leonora/611.m3u8
+#EXTINF:-1,18+: HOTCLUB 5 HD
+http://selling-team.net:8000/live/leonora/leonora/612.m3u8
+#EXTINF:-1,18+: HOTCLUB 6 HD
+http://selling-team.net:8000/live/leonora/leonora/613.m3u8
+#EXTINF:-1,18+: HOTCLUB 7 HD
+http://selling-team.net:8000/live/leonora/leonora/614.m3u8
+#EXTINF:-1,18+: HOTCLUB 8 HD
+http://selling-team.net:8000/live/leonora/leonora/615.m3u8
+#EXTINF:-1,18+: HOTCLUB 9 HD
+http://selling-team.net:8000/live/leonora/leonora/616.m3u8
+#EXTINF:-1,18+: HOTCLUB 10 HD
+http://selling-team.net:8000/live/leonora/leonora/617.m3u8
+#EXTINF:-1,18+: HOT
+http://selling-team.net:8000/live/leonora/leonora/1774.m3u8
+#EXTINF:-1,18+: HUSTLER TV
+http://selling-team.net:8000/live/leonora/leonora/1775.m3u8
+#EXTINF:-1,18+ PLAYBOY TV
+http://selling-team.net:8000/live/leonora/leonora/1773.m3u8
+#EXTINF:-1,18+: PENTHOUSE
+http://selling-team.net:8000/live/leonora/leonora/2543.m3u8
+#EXTINF:-1,18+: Russian Night
+http://selling-team.net:8000/live/leonora/leonora/2544.m3u8
+#EXTINF:-1,18+: Ola Ola
+http://selling-team.net:8000/live/leonora/leonora/2546.m3u8
+#EXTINF:-1,18+: Blue Hustler
+http://selling-team.net:8000/live/leonora/leonora/2545.m3u8
+#EXTINF:-1,18+ X Paradise
+http://selling-team.net:8000/live/leonora/leonora/2260.m3u8
+#EXTINF:-1,18+: Exotica
+http://selling-team.net:8000/live/leonora/leonora/1365.m3u8
+#EXTINF:-1,18+: Dorcel TV
+http://selling-team.net:8000/live/leonora/leonora/1273.m3u8
+#EXTINF:-1,18+:  Red Light
+http://selling-team.net:8000/live/leonora/leonora/1364.m3u8
+#EXTINF:-1,18+:  Dorcel
+http://selling-team.net:8000/live/leonora/leonora/1368.m3u8
+#EXTINF:-1,18+: SCT HD
+http://selling-team.net:8000/live/leonora/leonora/1363.m3u8
+#EXTINF:-1,18+: SCT
+http://selling-team.net:8000/live/leonora/leonora/1369.m3u8
+#EXTINF:-1,18+: Private 2
+http://selling-team.net:8000/live/leonora/leonora/1367.m3u8
+#EXTINF:-1,18+: PRIVATE
+http://selling-team.net:8000/live/leonora/leonora/593.m3u8
+#EXTINF:-1,18+: Platinum
+http://selling-team.net:8000/live/leonora/leonora/1370.m3u8
+#EXTINF:-1,18+: Pink Tv
+http://selling-team.net:8000/live/leonora/leonora/1371.m3u8
+#EXTINF:0,Just x
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+#EXTINF:0,x Story’s
+http://210.200.79.26:1935/live/aracity_m_new/playlist.m3u8
+#EXTİNF:-1,Xtsy
+http://198.50.239.103/iptv/st/test.php?canal=XTSYLA&cm=1463&f=.m3u8
+#EXTİNF:-1,hustler tv
+http://198.50.239.103/iptv/st/test.php?canal=hustlerLA&cm=1707&f=.m3u8
+#EXTİNF:-1,VENUS
+http://198.50.239.103/iptv/st/test.php?canal=VENUSSD&cm=285&f=.m3u8
+#EXTİNF:-1,Juicy
+http://198.50.239.103/iptv/st/test.php?canal=JuicyLA&cm=1023&f=.m3u8
+#EXTİNF:-1,Real
+http://198.50.239.103/iptv/st/test.php?canal=RealLA&cm=1021&f=.m3u8
+#EXTİNF:-1,Pb
+http://198.50.239.103/iptv/st/test.php?canal=PlayboyTV&cm=289&f=.m3u8
 
 #EXTINF:-1,[COLOR yellow]--- SERIES ---[/COLOR]
 http://0.0.0.0:1234
