@@ -1,0 +1,24 @@
+#EXTINF:0, Latino Movies
+rtmp://50.7.78.138:443/live/live_latinomovies
+#EXTINF:0,Mega Movies HD
+rtmp://50.7.78.138:443/live/live_megamovieshd
+ #EXTINF:0,Mega Movies HD
+rtmp://50.7.78.138:443/live/live_mega_movieshd
+#EXTINF:0,EXCinema Latino HD
+rtmp://50.7.78.138:443/live/live_cinemalatinohd01
+ #EXTINF:0,Live Broad Movies
+rtmp://50.7.78.138:443/live/live_broadmovies
+#EXTINF:0,Live Cine Star
+rtmp://50.7.78.138:443/live/live_cine_star
+#EXTINF:0,Live Club Terror
+rtmp://50.7.78.138:443/live/live_club_terror
+#EXTINF:0, Cineaccion Terror
+ rtmp://50.7.78.138:443/live/live_cineaccion_terror
+#EXTINF:0, Mega Extremo
+rtmp://50.7.78.138:443/live/live_mega_extremo
+#EXTINF:0, Live Movies Apocalipsis
+rtmp://50.7.78.138:443/live/live_movies_apocalipsis
+#EXTINF:0, Peliculasinfantil
+rtmp://50.7.78.138:443/live/live_peliculasinfantil
+#EXTINF:0, Cinema Series HD
+rtmp://50.7.78.138:443/live/live_cinema_serieshd
