@@ -1,52 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:0,FOX
-http://178.238.224.19/5858/201.m3u8
-#EXTINF:0,WARNERCHANNEL
-http://178.238.224.19/5858/205.m3u8
-#EXTINF:0,UNIVERSAL
-http://178.238.224.19/5858/207.m3u8
-#EXTINF:0,CARTOONNETWORK
-http://178.238.224.19/5858/320.m3u8
-#EXTINF:0,NICK
-http://178.238.224.19/5858/315.m3u8
-#EXTINF:0,DISNEYXD
-http://178.238.224.19/5858/322.m3u8
-#EXTINF:0,DISNEYCHANNEL
-http://178.238.224.19/5858/312.m3u8
-#EXTINF:0,NICKTOONS
-http://178.238.224.19/5858/314.m3u8
-#EXTINF:0,TRUTV
-http://178.238.224.19/5858/215.m3u8
-#EXTINF:0,FOXLIFE
-http://178.238.224.19/5858/271.m3u8
-#EXTINF:0,AXN
-http://178.238.224.19/5858/213.m3u8
-#EXTINF:0,E!
-http://178.238.224.19/5858/255.m3u8
-#EXTINF:0,FOXMOVIES
-http://178.238.224.19/5858/417.m3u8
-#EXTINF:0,STUDIOUNIVERSAL
-http://178.238.224.19/5858/492.m3u8
-#EXTINF:0,GOLDENEDGE
-http://178.238.224.19/5858/484.m3u8
-#EXTINF:0,AMCHD
-http://178.238.224.19/5858/444.m3u8
-#EXTINF:0,CINECANAL
-http://178.238.224.19/5858/480.m3u8
-#EXTINF:0,GOLDENHD
-http://178.238.224.19/5858/436.m3u8
-#EXTINF:0,CINEMAX
-http://178.238.224.19/5858/481.m3u8
-#EXTINF:0,SONY
-http://178.238.224.19/5858/203.m3u8
-#EXTINF:0,FX
-http://178.238.224.19/5858/209.m3u8
-#EXTINF:0,HISTORY
-http://178.238.224.19/5858/353.m3u8
-#EXTINF:0,FOX1
-http://178.238.224.19/5858/415.m3u8
-
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png" group-title="Variedades - Latinos",El Trece México
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Azteca 7 Monterrey México
@@ -55,13 +8,9 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
 #EXTINF:-1,Canal 2 Obregon México
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
-#EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
+#EXTINF:-1,Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,Canal 4 Foro TV México
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1,Canal 4 Mérida México
-rtmp://159.16.243.10/live/canal4/canal4
-#EXTINF:-1,CanaldelasEstrellas Mex.
+#EXTINF:-1,Canal de las Estrellas 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Capital 21 México
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
@@ -69,33 +18,16 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
 #EXTINF:-1,TV MAS México
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1 tvg-id="SkyMX_I217.294819232.microsoft.com" tvg-name="MFOXLA217_MFOXLA217mundo_fox_latin_americanCable" tvg-logo="mundofox.png" group-title="Español",Mundo Fox
-http://66.55.92.79:1935/app/ana69s-channel/.m3u8
-#EXTINF:-1, Mexico Travel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1, Efekto TV México
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, TV Mas
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-#EXTINF:-1, Acapulco TV México
-rtmp://video.hosteris.com/tvacapulco/tvacapulco
-#EXTINF:-1,Nuestra Visión
-rtmp://159.16.243.10/live/canal5/canal5
 #EXTINF:-1,Radio y Televisión Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,THITHD
-http://187.247.255.139/Apple/THITHD.m3u8
-#EXTINF:-1,UNO TV HD 720 México
-http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1,Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8?
-#EXTINF:-1,SIPSA TV Cancún México
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 #EXTINF:-1 group-title="LATAM",CANAL 53 MEXICO LATAM
 mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:-1 group-title="LATAM",MEXIQUENSE MEXICO
 http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1/mexiquense.m3u8
-#EXTINF:-1 group-title="LATAM",MILENIO CENTRO MEXICO LATAM
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 #EXTINF:-1 group-title="NEWS",AZTECA NOTICIAS MEXICO LATAM
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
